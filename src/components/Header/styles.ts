@@ -12,7 +12,8 @@ export const HeaderSection = styled("header")`
 `;
 
 export const LogoContainer = styled(Link)`
-  display: flex;
+  display: flex center;
+  
 `;
 
 export const NavLink = styled("div")`
