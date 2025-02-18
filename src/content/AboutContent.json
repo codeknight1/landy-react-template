@@ -3,13 +3,13 @@
   "text": " StakeHub is built for seamless funding, no complicated processes, no unnecessary hurdles. Simply list your equity, connect with verified investors, and close deals effortlessly..",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why StakeHub?",
+      "content": Ready to use, no technical setup required .",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Why StakeHub?",
+      "content": "StakeHub gives you total control over your funding journey..",
       "icon": "notes.svg"
     }
   ]
